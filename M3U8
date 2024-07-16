@@ -95,8 +95,6 @@ https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=ae96e9569da6f90946c83f3729ec5fbc&time=668cd3b4
 #EXTINF:-1 group-title="卫视台" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=2b30d57372713ae10ee004113d8ce4b737f5bd7631a1bd4bf19aa667cd535f27_1720505278_604800&fromCDN=ws
-#EXTINF:-1 group-title="卫视台" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
-https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=19c640ff1720506899
 #EXTINF:-1 group-title="广东台" tvg-id="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png",广东经济科教
 https://stream1.freetv.fun/a8a9fe5d2879c128fb40601d1a35fa0e92a0bef115510b285c454c94f4646bda.ctv
 #EXTINF:-1 group-title="广东台" tvg-id="广州电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042230403.jpg",广州电视台综合频道
@@ -125,3 +123,5 @@ http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 #EXTINF:-1 group-title="香港台" tvg-id="香港卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港台" tvg-id="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png",无线新闻
+https://stream1.freetv.fun/wu-xian-xin-wen-1.m3u8
