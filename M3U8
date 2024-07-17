@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=bb800ae03c2a2601e027d128dbd1b82006eadafaf3c87df367dfbc39b38e217c_1720507748_604800&fromCDN=ws
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
-https://event.pull.hebtv.com/jishi/cp3.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
 http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
@@ -29,8 +27,6 @@ http://jxcbn.ws-cdn.gitv.tv/hls/CCTV11HD/index.m3u8?gMac=unknown&livodToken=b7b4
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV12HD/index.m3u8?gMac=unknown&livodToken=580c20b986086596a03afb85524d28a7b1255fd045cc29e549830abd92eab828_1720508158_604800&fromCDN=ws
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13新闻
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV13HD/index.m3u8?gMac=unknown&livodToken=f4be577234c226bfecf00f96b626bcca106a9d4eaeeaae331b860678bd3f60e7_1720508191_604800&fromCDN=ws
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13新闻
-https://event.pull.hebtv.com/jishi/cp4.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14少儿
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV14HD/index.m3u8?gMac=unknown&livodToken=c1f72c79ee7857898e80e822b3768418b14d710294fb16dc503997f9bce0adda_1720508238_604800&fromCDN=ws
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15音乐
@@ -144,13 +140,13 @@ http://jxcbn.ws-cdn.gitv.tv/hls/XZWS/index.m3u8?gMac=unknown&livodToken=869833d1
 #EXTINF:-1 group-title="卫视台" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=337c9e24645beaea9e1dc2761e5d0e44cdce5dc90c3fedafcce5f9bde7faac9a_1720509432_604800&fromCDN=ws
 #EXTINF:-1 group-title="广东台" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
-https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8
-#EXTINF:-1 group-title="广东台" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
 https://stream1.freetv.fun/222fab3b029021a3ff1d3c9e3339cff50d650454568304cc55942bc0c48520ec.m3u8
+#EXTINF:-1 group-title="广东台" tvg-id="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png",广东珠江
+https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8
 #EXTINF:-1 group-title="广东台" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
 https://stream1.freetv.fun/cbeb37fe05086e8a0e425d6a98c17e3ba01a9c5ef8e74b9b128bc9d5e41b4a8c.m3u8
 #EXTINF:-1 group-title="广东台" tvg-id="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png",广东经济科教
-https://stream1.freetv.fun/a8a9fe5d2879c128fb40601d1a35fa0e92a0bef115510b285c454c94f4646bda.ctv
+https://stream1.freetv.fun/2623d952147c792681ad5fe97ea7b7e4b883687a6ee2f3343560331009f7d534.m3u8
 #EXTINF:-1 group-title="广东台" tvg-id="广州电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042230403.jpg",广州电视台综合频道
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=8554699d06aed3f21425480824c75408&txTime=19095f3cb9c
 #EXTINF:-1 group-title="广东台" tvg-id="广州电视台影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042346693.jpg",广州电视台影视频道
