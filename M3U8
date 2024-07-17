@@ -145,6 +145,28 @@ https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=98b34160cc1c5ecf313b293bd71ee827
 https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8
 #EXTINF:-1 group-title="广东台" tvg-id="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
 https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=40f9527ab70fd35e0e377d74ad0c64e0-C%2B7OExh2Y2njs21XXpHiNRzP%2FTs7szah2iFd10FqNkHjrA06EoMHajVg6qcdG44xpB%2B8MfidKRQhsF3dHAahOT%2BtwgktHeH0hUmXbUGag5RRNyoGc7SeToUTKJFJsj4rDitRbrova3fuT3HFs9ZOA707QwBZEur6lrTWyWxnyL0nhH3iKnuY%2F6G3BAxmNDeGrSpYwok53QjthGUWsUrTXTXo4HloI0krhxNRndGZ%2BbgklYp%2F3BBjUSKMCMYSQ8CJ14UoI2Isaxg0zAD17yxRgNNag4L9120xiL73mtP4NvBKwePBU0LI7%2Bsg4pCJrlR%2B79Fzz%2F0IEofp79NKLS8Y1h8kyJtGR4slYJndi%2BDhz1Ib%2Fll7FozpgJZIp8EYolhp
+#EXTINF:-1 group-title="广东台" tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/SHENZHD/index.m3u8?gMac=unknown&livodToken=6b52c18155b74d913b2a3060db6d74f2a29dd8a824d70f648a9882dca63fd962_1720509238_604800&fromCDN=ws
+#EXTINF:-1 group-title="广东台" tvg-id="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
+https://tcdn.itouchtv.cn/live/gdty.m3u8?t_token=401f304cd8c865aed97d175f9c825ddc-PxjPKizD0RMZBMYFJD0l%2FSKKGNhQ5elSw6ozMjsbqSNZ5VPfTWY%2BYnLASputJgtidmv3QTCDR2cVNcsBXsY6r%2BAkJnWH95%2FQPhFcFfhNoqSJxmf0KMlpNPLaVj1Nb%2BdQ7K%2B9RrNqn7Y0%2B7JGwU6VeUJqUJ%2F8poJGZaAMPM142WuiBbBjf%2BzOocxIQWXsQIy%2FlHxjl60tX4TFnZXFYqHkKZmMIF%2FZKrlE3mIoBxww6BJmrqJCu%2FiwlQUzl0vH9B65XnPL8wwnOy3uwEKW4OJJycOdynGXhndchyK76BYB09VMuKiIiiKGbiSwgZ3079NOAf2NlzRhOipCHpoUNqc85w0EAskQ5NoXwDi%2BWBFt7SQwVo4MyLuqNv%2B3lBK98hmv
+#EXTINF:-1 group-title="广东台" tvg-id="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
+https://stream1.freetv.fun/3bd56485c5f0d9c62b5c864695794e1ef946b46de7c1468e56ac2d4a12e1970d.m3u8
+#EXTINF:-1 group-title="广东台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="广东台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="广东台" tvg-id="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png",无线新闻
+https://stream1.freetv.fun/662e5a352f2b84358ebad27c76fec0e01bcc3cd0490e4b00a8dcd0621ddc3d35.ctv
+#EXTINF:-1 group-title="广东台" tvg-id="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png",无线新闻
+https://hls.watchtv.uk/inews_twn/playlist-39.m3u8a?t=1721208916&token=19a683c4fd59f579ead40df024484000
+#EXTINF:-1 group-title="广东台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+#EXTINF:-1 group-title="广东台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
+http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+#EXTINF:-1 group-title="广东台" tvg-id="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
+https://ali.hlspull.yximgs.com/live/da349e04130b6c9f5be0284957a22767.flv
+#EXTINF:-1 group-title="广东台" tvg-id="香港卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="广东台" tvg-id="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png",广东经济科教
 https://stream1.freetv.fun/2623d952147c792681ad5fe97ea7b7e4b883687a6ee2f3343560331009f7d534.m3u8
 #EXTINF:-1 group-title="广东台" tvg-id="广州电视台综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512042230403.jpg",广州电视台综合频道
@@ -159,23 +181,3 @@ https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=278bbb74b913655465c0308b
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=6189761ecfc6aa97b97b48bc30ae0c50&txTime=1909629bd71
 #EXTINF:-1 group-title="广东台" tvg-id="广州南国都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2020/0608/small8794c1380bce42c709e47badc86e6c9c1591592752.jpg",广州南国都市频道
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=2c55fc6940d8fb876b26bce0c4d49163&txTime=19096360e7f
-#EXTINF:-1 group-title="广东台" tvg-id="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
-https://stream1.freetv.fun/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
-#EXTINF:-1 group-title="广东台" tvg-id="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png",广东体育
-https://stream1.freetv.fun/3bd56485c5f0d9c62b5c864695794e1ef946b46de7c1468e56ac2d4a12e1970d.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png",无线新闻
-https://stream1.freetv.fun/662e5a352f2b84358ebad27c76fec0e01bcc3cd0490e4b00a8dcd0621ddc3d35.ctv
-#EXTINF:-1 group-title="香港台" tvg-id="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png",无线新闻
-https://hls.watchtv.uk/inews_twn/playlist-39.m3u8a?t=1721208916&token=19a683c4fd59f579ead40df024484000
-#EXTINF:-1 group-title="香港台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰中文
-http://116.162.6.192/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
-#EXTINF:-1 group-title="香港台" tvg-id="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
-https://ali.hlspull.yximgs.com/live/da349e04130b6c9f5be0284957a22767.flv
-#EXTINF:-1 group-title="香港台" tvg-id="香港卫视" tvg-logo="http://tv.haoqu99.com/d/file/2016/0922/small26a02aa95faa4a0ea0f217651a4f11411474553718.jpg",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
